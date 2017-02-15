@@ -1,1 +1,3 @@
 New test git.
+For commit.
+Cool. This test of diff is very perfect!
